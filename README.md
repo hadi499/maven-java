@@ -6,9 +6,10 @@ mvn archetype:generate
 
 maven-archetype-quickstart
 
- <groupId>programmer-zaman-now</groupId>
-  <artifactId>belajar-apache-maven</artifactId>
-  <version>1.0-SNAPSHOT</version>
+groupId : belajar
+artifactId : belajar-maven
+package : belajar.maven
+version : 1.0-SNAPSHOT
   
   
   mvn compile
